@@ -20,7 +20,6 @@
    <br>
    <form action="SERVOQ-Control"><input type="submit" value="下舵机">
    </form>
-   <br>
    	<p>此页面用于演示如何通过网页按钮来控制ESP8266开发板引脚。</p>
     <p>本教程可在太极创客网站免费获取。太极创客网址： <a href="http://www.taichi-maker.com" target="_black">www.taichi-maker.com</a> 
    </center>
