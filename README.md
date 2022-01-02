@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="UTF-8">
+	<title>太极创客-零基础入门学用物联网教程</title>
+</head> 
+<body>
+	<center>
+	<a href="http://www.taichi-maker.com" target="_blank"><img src="/img/taichi-maker.jpg" alt="太极创客"></a>
+	<h1>LED引脚控制</h1>
+	<p>通过以下按键，您可以控制ESP8266开发板上的内置LED引脚</p>
+   <form action="LED-Control"><input type="submit" value="LED控制">
+   </form>
+   <br>
+   <form action="LED-Control"><input type="submit" value="也是LED控制">
+   </form>
+   <br>
+   <form action="SERVO-Control"><input type="submit" value="上舵机">
+   </form>
+   <br>
+   <form action="SERVOQ-Control"><input type="submit" value="下舵机">
+   </form>
+   <br>
+   <form action="index.html"><input type="submit" value="返回首页">
+   </form>
+   	<p>此页面用于演示如何通过网页按钮来控制ESP8266开发板引脚。</p>
+    <p>本教程可在太极创客网站免费获取。太极创客网址： <a href="http://www.taichi-maker.com" target="_black">www.taichi-maker.com</a> 
+   </center>
+</body>
 
-You can use the [editor on GitHub](https://github.com/za24704917/github/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/za24704917/github/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
