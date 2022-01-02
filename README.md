@@ -2,11 +2,11 @@
 <html lang="zh-CN">
 <head>
 	<meta charset="UTF-8">
-	<title>太极创客-零基础入门学用物联网教程</title>
+	<title>测试网站</title>
 </head> 
 <body>
 	<center>
-	<a href="http://www.taichi-maker.com" target="_blank"><img src="/img/taichi-maker.jpg" alt="太极创客"></a>
+	<a href="https://github.com/za24704917/github" target="_blank"><img src="/img/taichi-maker.jpg" alt="还没有图片"></a>
 	<h1>LED引脚控制</h1>
 	<p>通过以下按键，您可以控制ESP8266开发板上的内置LED引脚</p>
    <form action="LED-Control"><input type="submit" value="LED控制">
